@@ -1,0 +1,5 @@
+{
+  "name": "LeadGenie",
+  "description": "A hybrid email marketing automation tool that combines the simplicity of Mailchimp, the developer flexibility of SendGrid, and the conversational design of Typeform. The goal is to make marketing automation feel human, intuitive, and fast.",
+  "requestFramePermissions": []
+}
